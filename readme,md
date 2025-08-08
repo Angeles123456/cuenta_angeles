@@ -1,0 +1,17 @@
+# Nombre del Proyecto
+Sistema de Gestión de Tareas
+
+## Descripción del Proyecto
+Este proyecto busca desarrollar una aplicación que permita gestionar tareas personales o de equipo de manera sencilla, con una interfaz intuitiva y funcionalidades útiles.
+
+## Objetivos
+1. Facilitar la organización de tareas diarias.
+2. Permitir el seguimiento del progreso de cada tarea.
+3. Ofrecer una plataforma colaborativa para equipos de trabajo.
+
+## Tecnologías a Utilizar
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- MongoDB
